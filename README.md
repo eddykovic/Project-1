@@ -1,2 +1,1 @@
-# Project-1
-For project 1
+This is a detailed description of my working of project one, steps and visuals of the results.
